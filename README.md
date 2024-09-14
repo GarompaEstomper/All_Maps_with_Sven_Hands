@@ -1,11 +1,11 @@
 == "Sven Co-op Hands MEGAPACK" == for Sven Co-op 5.x -- modified by Garompa
-- Sven Co-op Hands on 99% of ALL custom weapons that exist in the game as of 12/09/2024 -
-===========================================================================
+-- Sven Co-op Hands on 99% of ALL custom weapons that exist in the game as of 12/09/2024 --
+=======================================================================
 
 
 
 CREDITS (sorry if I missed someone or made a mistake, please let me know!):
-===========================================================================
+=======================================================================
 
 
 - Crossbow: The Sven Co-op team, Red Slug, Stoke, Ambient.Impact, t3hH4wK (source: https://gamebanana.com/skins/49397 )
@@ -76,7 +76,7 @@ And:
 
 
 SOURCES:
-===========================================================================
+=======================================================================
 
 You can literally go and check HalfLife Creations Forums, Gamebanana.com and moddb.com (addons section) and look for models for Sven Co-op, Half-Life, Opposing Force and Blue Shift. You will find all of them. 
 
@@ -84,7 +84,7 @@ You can literally go and check HalfLife Creations Forums, Gamebanana.com and mod
 
 
 ADDITIONAL CREDITS
-===========================================================================
+=======================================================================
 
 - All of these people and obviously the Sven Co-op team (And DNIO071 for the remappable enhanced SC hands!), the Sven Co-op discord community, Valve and Gearbox.
 
