@@ -64,6 +64,7 @@ CREDITS (sorry if I missed someone or made a mistake, please let me know!):
 
 
 And:
+- Four-Nines (several rigs for the CSO weapons)
 - AleKK (for much help, recovering credits, and original compiles of some weapons)
 - ALEM (RPG sprite)
 - LeonelC (for his great texture upscales)
