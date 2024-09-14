@@ -1,13 +1,11 @@
-# All Maps with Sven Hands
-
 == "Sven Co-op Hands MEGAPACK" == for Sven Co-op 5.x -- modified by Garompa
-- Sven Co-op Hands on 99% of ALL custom weapons that exist in the game up to date -
-=======================================================================
+- Sven Co-op Hands on 99% of ALL custom weapons that exist in the game as of 12/09/2024 -
+===========================================================================
 
 
 
 CREDITS (sorry if I missed someone or made a mistake, please let me know!):
-=======================================================================
+===========================================================================
 
 
 - Crossbow: The Sven Co-op team, Red Slug, Stoke, Ambient.Impact, t3hH4wK (source: https://gamebanana.com/skins/49397 )
@@ -68,14 +66,10 @@ CREDITS (sorry if I missed someone or made a mistake, please let me know!):
 And:
 - AleKK (for much help, recovering credits, and original compiles of some weapons)
 - ALEM (RPG sprite)
-- Besli (Nihilanth model used as a base. Pit Worm retexture)
-- Megan (some gibs, can't remember which submodels of which models though!)
 - LeonelC (for his great texture upscales)
-- Maestro Fénix (specially for his controller remake)
 - Garompa (rigging, retexturing, fixing and modifying)
-- Water-phoenix (some obscure custom models and textures, specially gibs and light.mdl)
 - QuakerCraft (shotgun sprite)
-- Suparsonik (for weapon models, and the HD isotopebox)
+- Suparsonik (for weapon models)
 - And obviously the Sven Co-op team, the Sven Co-op discord community, Valve and Gearbox.
 
 
@@ -89,10 +83,10 @@ You can literally go and check HalfLife Creations Forums, Gamebanana.com and mod
 
 
 
-ADDITIONAL CREDITS: (for NPCs, items and other bits that are not the weapons)
+ADDITIONAL CREDITS
 ===========================================================================
 
-- All of this people and obviously the Sven Co-op team (And DNIO071 for the remappable enhanced SC hands!), the Sven Co-op discord community, Valve and Gearbox.
+- All of these people and obviously the Sven Co-op team (And DNIO071 for the remappable enhanced SC hands!), the Sven Co-op discord community, Valve and Gearbox.
 
 
 !NC! Furious
@@ -119,7 +113,6 @@ BirdHouse
 BloodyKylie
 Bobito Pawner
 Booger
-BrussTrigger (Female Assassin, Male Assassin)
 BulletHead
 Bullet_Head
 CAPTIVA
@@ -183,11 +176,9 @@ Kopter
 Kylestater
 LOOM
 LeisRA
-LeonelC  (Textures: Controller, Nihilanth, HGrunt, Barney, BigMom, and almost all NPCs have something from him)
 Lexi
 Lonewolf
 Lordn00b
-Maestro Fénix  (Models: Controller)
 MAVKUSH
 MB MICHAEL
 MINION
@@ -236,7 +227,6 @@ RevolutionArt
 Richard
 Rimrook
 Ring-Of-Ding Rampage
-Romka  (Models: Female Assassin, Otis, Barney, and others but can't confirm which)
 S7OK3
 STONE
 SXLG
@@ -325,7 +315,6 @@ xVox-Bloodstonex
 xpbolt2
 zulmargera87
 |WS|*Nikon Ubercharger
-SouL BreaKeR (zombie barney and soldier retextures)
 Lev, Mr.J01, Edd&Lambda02, Melih_Oksuzce, Fresh Silence (Operation Black Mesa displacer port)
 Stoke, Pete3D, Ambient.Impact, Norman Roger, CliffyV, AleKK (Spas 12 model)
 Brigadier Wolf (Natural selection R7a-12 Shotgun)
