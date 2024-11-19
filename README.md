@@ -1,7 +1,11 @@
-== "Sven Co-op Hands MEGAPACK" == for Sven Co-op 5.x -- modified by Garompa
--- Sven Co-op Hands on 99% of ALL custom weapons that exist in the game as of 12/09/2024 --
+"Sven Co-op Hands MEGAPACK" = for Sven Co-op 5.x - modified by Garompa
+ Sven Co-op Hands on 99% of ALL custom weapons that exist in the game as of 12/09/2024 
 =======================================================================
 
+Discord: https://discord.com/channels/170051548284583937/1283577444665917460
+ModDB: https://www.moddb.com/mods/sven-co-op/addons/all-maps-with-sven-hands#downloadsform
+Boderman.net: https://user.boderman.net/garompa/allsvenhands_v1c.7z
+GoogleDrive: https://drive.google.com/file/d/1r_CbJ8dVHpb5AlbSuCjwqU5iSUlSmWzD/view?usp=drive_link
 
 
 CREDITS (sorry if I missed someone or made a mistake, please let me know!):
