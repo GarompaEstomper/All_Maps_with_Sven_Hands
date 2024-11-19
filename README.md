@@ -1,23 +1,23 @@
 # Sven Co-op Hands MEGAPACK 
 for Sven Co-op 5.0+, modified by Garompa
 
----
+
 
 ## Links
 - [Discord](https://discord.com/channels/170051548284583937/1283577444665917460)
 - [ModDB](https://www.moddb.com/mods/sven-co-op/addons/all-maps-with-sven-hands#downloadsform)
 - [Boderman.net](https://user.boderman.net/garompa/allsvenhands_v1c.7z)
 - [GoogleDrive](https://drive.google.com/file/d/1r_CbJ8dVHpb5AlbSuCjwqU5iSUlSmWzD/view?usp=drive_link)
-- 
----
+ 
+
 
 ## Description
 
 Sven Co-op Hands on 99% of ALL custom weapons that exist in the game as of 12/09/2024 
 
----
 
-## CREDITS (sorry if I missed someone or made a mistake, please let me know!):
+
+## Credits (sorry if I missed someone or made a mistake, please let me know!):
 
 - Crossbow: The Sven Co-op team, Red Slug, Stoke, Ambient.Impact, t3hH4wK (source: https://gamebanana.com/skins/49397 )
 
@@ -73,6 +73,7 @@ Sven Co-op Hands on 99% of ALL custom weapons that exist in the game as of 12/09
 
 - Uzi: DNIO071 (animation fix), The Sven Co-op team
 
+---
 
 And:
 - Four-Nines (several rigs for the CSO weapons)
@@ -85,21 +86,15 @@ And:
 - And obviously the Sven Co-op team, the Sven Co-op discord community, Valve and Gearbox.
 
 
-
-
-SOURCES:
-=======================================================================
+## Sources
 
 You can literally go and check HalfLife Creations Forums, Gamebanana.com and moddb.com (addons section) and look for models for Sven Co-op, Half-Life, Opposing Force and Blue Shift. You will find all of them. 
 
 
-
-
-ADDITIONAL CREDITS
+## Additioal Credits
 =======================================================================
 
 - All of these people and obviously the Sven Co-op team (And DNIO071 for the remappable enhanced SC hands!), the Sven Co-op discord community, Valve and Gearbox.
-
 
 * !NC! Furious
 * -:Steve-o:-
