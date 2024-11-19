@@ -92,7 +92,7 @@ You can literally go and check HalfLife Creations Forums, Gamebanana.com and mod
 ## Additional Credits
 =======================================================================
 
-- All of these people and obviously the Sven Co-op team (And DNIO071 for the remappable enhanced SC hands!), the Sven Co-op discord community, Valve and Gearbox.
+All of these people and obviously the Sven Co-op team (And DNIO071 for the remappable enhanced SC hands!), the Sven Co-op discord community, Valve and Gearbox.
 
 * !NC! Furious
 * -:Steve-o:-
