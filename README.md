@@ -1,6 +1,6 @@
 # Sven Co-op Hands MEGAPACK 
 for Sven Co-op 5.0+, modified by Garompa
-
+---
 
 
 ## Links
@@ -73,8 +73,6 @@ Sven Co-op Hands on 99% of ALL custom weapons that exist in the game as of 12/09
 
 - Uzi: DNIO071 (animation fix), The Sven Co-op team
 
----
-
 And:
 - Four-Nines (several rigs for the CSO weapons)
 - AleKK (for much help, recovering credits, and original compiles of some weapons)
@@ -86,12 +84,13 @@ And:
 - And obviously the Sven Co-op team, the Sven Co-op discord community, Valve and Gearbox.
 
 
+
 ## Sources
 
 You can literally go and check HalfLife Creations Forums, Gamebanana.com and moddb.com (addons section) and look for models for Sven Co-op, Half-Life, Opposing Force and Blue Shift. You will find all of them. 
 
 
-## Additioal Credits
+## Additional Credits
 =======================================================================
 
 - All of these people and obviously the Sven Co-op team (And DNIO071 for the remappable enhanced SC hands!), the Sven Co-op discord community, Valve and Gearbox.
