@@ -1,4 +1,4 @@
-# Sven Co-op Hands MEGAPACK 
+# Sven Co-op Hands MEGAPACK (+plus HD non-hands weapons)
 for Sven Co-op 5.0+, modified by Garompa
 
 
@@ -13,7 +13,7 @@ for Sven Co-op 5.0+, modified by Garompa
 ## Description
 
 Sven Co-op Hands on 99% of ALL custom weapons that exist in the game as of 12/09/2024 
-
+Also contains some HD models for weapons that do not have hands like the hornetguns.
 
 
 ## Credits (sorry if I missed someone or made a mistake, please let me know!):
@@ -35,6 +35,7 @@ Sven Co-op Hands on 99% of ALL custom weapons that exist in the game as of 12/09
 - Grenade: Crowbar Collective, AleKK (Original compiler), Norman, DNIO071, IIopn, Strelok, Trusty Crowbar Team (source: https://gamebanana.com/skins/153987 )
 
 - Hornet: The Sven Co-op team
+- Classic Hornet gun:  gamit (animations)
 
 - M249: Norman, DNIO071, DGF, simple rulez, Schmung, flamshmizer, Geno, Acid_Snake, NightmareMutant, Strelok, The Sven Co-op team (source: https://gamebanana.com/skins/145276 )
 
