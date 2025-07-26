@@ -1,6 +1,7 @@
 # Sven Co-op Hands MEGAPACK (+plus HD non-hands weapons)
 for Sven Co-op 5.0+, modified by Garompa
 
+![amwsh](https://github.com/GarompaEstomper/All_Maps_with_Sven_Hands/blob/main/amwsh.jpg)
 
 ## Links
 - [Discord](https://discord.com/channels/170051548284583937/1283577444665917460)
